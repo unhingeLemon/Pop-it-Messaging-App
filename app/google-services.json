@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241828418255",
+    "project_id": "pop-it-messaging-app",
+    "storage_bucket": "pop-it-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241828418255:android:3036ec95862160092a9dba",
+        "android_client_info": {
+          "package_name": "com.example.mobile_programming_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241828418255-eijg2fcbrvsfkdvfe60kkania9pnhil5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjJQxq5w-U7rkO1Rvi__rm7haKtl50_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241828418255-eijg2fcbrvsfkdvfe60kkania9pnhil5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
